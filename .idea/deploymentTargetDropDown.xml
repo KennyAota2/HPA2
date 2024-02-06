@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="3101">
+        <State />
+      </entry>
+      <entry key="31011">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="R58N64KS3RL" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-01-23T05:51:25.767938600Z" />
+        </State>
+      </entry>
+      <entry key="app2">
+        <State />
+      </entry>
+      <entry key="friday">
+        <State />
+      </entry>
+      <entry key="hellokitty">
+        <State />
+      </entry>
+      <entry key="second2">
+        <State />
+      </entry>
+      <entry key="vtornik">
+        <State />
+      </entry>
+      <entry key="wednesday">
+        <State />
+      </entry>
+      <entry key="wensday">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
